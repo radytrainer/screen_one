@@ -1,5 +1,5 @@
 /* screen size 1200px up */
-@media only screen and (max-width: 1200px) {
+@media only screen and (min-width: 1200px) {
   body {
       background: #0e2fe9;
   }
