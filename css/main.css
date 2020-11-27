@@ -1,0 +1,35 @@
+/* screen size 1200px up */
+@media only screen and (max-width: 1200px) {
+  body {
+      background: #0e2fe9;
+  }
+}
+
+/* screen size 992px up */
+@media only screen and (max-width: 992px) {
+    body {
+        background: #e71c15;
+    }
+}
+
+/* screen size 768px up */
+@media only screen and (max-width: 768px) {
+    body {
+        background: #09cc12;
+    }
+}
+
+/* screen size 600px up */
+@media only screen and (max-width: 600px) {
+    body {
+        background: #fab105;
+    }
+}
+
+/* screen size 600px down */
+@media only screen and (max-width: 500px) {
+    body {
+        background: #8307e9;
+    }
+}
+
